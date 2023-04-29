@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-04-29T10:38:39.300Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>StarryDrifter</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客极客计划</title>
+    <link href="http://example.com/2023/04/29/%E5%8D%9A%E5%AE%A2%E6%9E%81%E5%AE%A2%E8%AE%A1%E5%88%92/"/>
+    <id>http://example.com/2023/04/29/%E5%8D%9A%E5%AE%A2%E6%9E%81%E5%AE%A2%E8%AE%A1%E5%88%92/</id>
+    <published>2023-04-29T10:10:58.000Z</published>
+    <updated>2023-04-29T10:38:39.300Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><ul><li><strong>一个非常简约的主题 <a href="https://github.com/claymcleod/hexo-theme-hermes">hermes</a></strong></li><li>简洁的主题方便样式的添加</li></ul><h2 id="样式修改清单"><a href="#样式修改清单" class="headerlink" title="样式修改清单"></a>样式修改清单</h2><ul><li><input disabled="" type="checkbox"> 导航过渡动画</li><li><input disabled="" type="checkbox"> 标签云</li><li><input disabled="" type="checkbox"> 代码块高亮</li><li><input disabled="" type="checkbox"> 引用块添加</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;主题&quot;&gt;&lt;a href=&quot;#主题&quot; class=&quot;headerlink&quot; title=&quot;主题&quot;&gt;&lt;/a&gt;主题&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;一个非常简约的主题 &lt;a href=&quot;https://github.com/claymcleod/hexo-th</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="http://example.com/2023/04/29/hello-hexo/"/>
+    <id>http://example.com/2023/04/29/hello-hexo/</id>
+    <published>2023-04-28T17:44:04.138Z</published>
+    <updated>2023-04-29T10:46:21.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>官网入口 : <a href="https://hexo.io/">Hexo</a></p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一个文章"><a href="#创建一个文章" class="headerlink" title="创建一个文章"></a>创建一个文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">&quot;文章名&quot;</span></span><br></pre></td></tr></table></figure><p>会在 <code>source\_posts</code> 下创建一个对应名字的 md 文件</p><blockquote><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p></blockquote><h3 id="运行本地服务器"><a href="#运行本地服务器" class="headerlink" title="运行本地服务器"></a>运行本地服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><blockquote><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p></blockquote><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程仓库"><a href="#部署到远程仓库" class="headerlink" title="部署到远程仓库"></a>部署到远程仓库</h3><ol><li>清除缓存 </li><li>生成静态文件 </li><li>发布</li></ol><hr><ol><li><code>hexo clean</code></li><li><code>hexo deploy</code></li><li><code>hexo deploy</code></li></ol><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><div class="danger">这是一个警示</div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;官网入口 : &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;快速开始&quot;&gt;&lt;a href=&quot;#快速开始&quot; class=&quot;headerlink&quot; title=&quot;快速开始&quot;&gt;&lt;/a&gt;快速开始&lt;/h2&gt;&lt;h3 id=&quot;创建一个文章&quot;</summary>
+      
+    
+    
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
